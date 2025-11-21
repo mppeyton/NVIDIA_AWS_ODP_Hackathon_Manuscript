@@ -245,6 +245,8 @@ git_url: https://github.com/mppeyton/NVIDIA_AWS_ODP_Hackathon_Manuscript
 authors_short: Mina P. Peyton & Cheng-Han Chung2 \emph{et al.}
 ---
 
+Authors are listed according to their contributions, followed by alphabetical order.
+
 # Introduction
 
 Knowledge graphs (KGs) are structured representations of information that model 
@@ -1181,6 +1183,5 @@ language responses are generated solely from trusted knowledge sources.
 
 ## References
 
-Authors are listed according to their contributions, followed by alphabetical order.
 
 
