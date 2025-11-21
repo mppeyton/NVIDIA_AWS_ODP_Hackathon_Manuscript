@@ -10,33 +10,43 @@ authors:
   - name: Mina P. Peyton
     orcid: 0000-0002-0250-1429
     affiliation: 1
+    role: Writing
   - name: Cheng-Han Chung
     affiliation: 2
     orcid: 0000-0003-3722-2101
+    role: Writing
   - name: Samarpan Mohanty
     affiliation: 3
     orcid: 0009-0001-1309-7425
+    role: Writing
   - name: Van Q. Truong
     affiliation: 4
     orcid: 0000-0002-5485-1818
+    role: Writing
   - name: Andrew Scouten
     orcid: 0009-0004-6418-7158
+    role: Writing
     affiliation: 5
   - name: Sangeeta Shukla
     affiliation: 6
     orcid: 0000-0002-3727-9602
+    role: Writing
   - name: Chantera Lazard
     affiliation: 7
     orcid: 0009-0006-1367-3812
+    role: Writing
   - name: Daniall Masood
     affiliation: 8
     orcid: 0000-0001-7441-1628
+    role: Writing
   - name: John D. Murphy
     affiliation: 9
     orcid: 0000-0002-7714-9976
+    role: Writing
   - name: Anne Ketter
     affiliation: 10
     orcid: 0000-0002-5547-569
+    role: Writing
   - name: Taha Mohseni Ahooyi
     affiliation: 6
     orcid: 0000-0003-0262-6413  
@@ -160,9 +170,11 @@ authors:
   - name: Beryl Rabindran 
     affiliation: 32
     orcid: 0000-0002-2937-7798
+    role: Conceptualization, Writing
   - name: Ben Busby
     affiliation: 33
     orcid: 0000-0001-5267-4988    
+    role: Conceptualization, Writing
 affiliations:
   - name: Bioinformatics and Computational Biosciences Branch, Office of Cyber Infrastructure and Computational Biology, National Institute of Allergy and Infectious Diseases, National Institutes of Health, Bethesda, Maryland, USA 
     index: 1
@@ -256,7 +268,7 @@ nodes (entities) connected by edges (relationships) that may carry labels or
 attributes providing semantic meaning to those connections. As directed, 
 labeled graphs, KGs associate meaning with nodes and edges; information can be 
 incorporated through manual curation, semi-automated extraction, or fully 
-automated data integration methods [@Hogan2021Knowledge, @Chaudhri2022Knowledge, @Peng2023Knowledge]. 
+automated data integration methods [@Hogan2021Knowledge,@Chaudhri2022Knowledge,@Peng2023Knowledge]. 
 Once established, these graphs can be efficiently explored through graph 
 navigation where search and query operations can be performed, enabling complex 
 reasoning over large, heterogeneous datasets [@Chaudhri2022Knowledge]. Although 
@@ -268,16 +280,16 @@ structured knowledge [@Chaudhri2022Knowledge].
 
 In parallel, biomedical investigators are increasingly adopting large language 
 models (LLMs) to accelerate discovery. However, LLMs often lack transparency 
-into the evidence underpinning their outputs [@Liao2024AI, @Joseph2025generative, @Palikhe2025Towards]. 
+into the evidence underpinning their outputs [@Liao2024AI,@Joseph2025generative,@Palikhe2025Towards]. 
 This opacity is problematic for biomedical research, where verifiable, 
 evidence-based reasoning is essential. Furthermore, generative artificial 
 intelligence (GenAI) systems are prone to hallucinations, generating 
-plausible-sounding but false statements [@Huang2025Survey, @Xu2025Hallucination].
+plausible-sounding but false statements [@Huang2025Survey,@Xu2025Hallucination].
 Thus, for safe application of GenAI in biomedical research, its outputs must be 
 valid, traceable, and contextually grounded. To address these challenges, 
 the graph-based retrieval-augmented generation (GraphRAG) framework integrates 
 knowledge graph structure into the retrieval and reasoning process of LLMs 
-[@Potts2024GraphRAG, @Shi2025Boosting]. GraphRAG reduces hallucinations observed in 
+[@Potts2024GraphRAG,@Shi2025Boosting]. GraphRAG reduces hallucinations observed in 
 free-form GenAI systems by constraining generation to graph-anchored evidence, 
 and scales to heterogeneous biomedical datasets without discarding graph topology. 
 This approach enhances both interpretability and trust in LLM-driven biomedical discovery.
@@ -341,7 +353,7 @@ and mortality (9.3% of cancer deaths) globally [@Bray2024Global]. Recent
 epidemiological evidence indicates that colorectal cancer incidence has been 
 rising among younger populations around the world, highlighting an urgent need 
 for improved understanding of disease mechanisms and identification of actionable 
-therapeutic targets [@Lui2019Global, @Vuik2019Increasing]. This shifting 
+therapeutic targets [@Lui2019Global,@Vuik2019Increasing]. This shifting 
 demographic pattern underscores the importance of age-stratified analyses in 
 colorectal cancer research to identify potential age-specific biomarkers and 
 treatment strategies.
@@ -349,11 +361,11 @@ treatment strategies.
 The heterogeneity of colorectal cancer presents both challenges and opportunities 
 for precision oncology approaches. Multiple subtypes of colorectal cancer have 
 been characterized based on histological features and anatomical subsites, each 
-carrying distinct survival patterns and clinical outcomes [@Lech2016Colorectal, @Li2024Signaling]. 
+carrying distinct survival patterns and clinical outcomes [@Lech2016Colorectal,@Li2024Signaling]. 
 Furthermore, colorectal cancer incidence and mortality rates exhibit substantial 
 variation across racial and ethnic groups and other demographic factors in the 
 United States, suggesting that both genetic and environmental determinants 
-contribute to disease progression and patient outcomes [@Carethers2021Racial, @Diaz2025Geographic]. 
+contribute to disease progression and patient outcomes [@Carethers2021Racial,@Diaz2025Geographic]. 
 Although molecular profiling of colorectal cancer has advanced considerably, 
 critical knowledge gaps remain regarding which specific genes are associated 
 with favorable or unfavorable survival outcomes, particularly when stratified 
@@ -365,7 +377,7 @@ targets for colorectal adenocarcinoma (COAD). We selected colorectal adenocarcin
 for this study because of its status as a disease of public health concern and 
 because it is well-represented in both The Cancer Genome Atlas (TCGA) and the 
 Clinical Proteomic Tumor Analysis Consortium (CPTAC), enabling cross-platform 
-validation of our findings [@Ellis2013Connecting, @Tomczak2015Cancer]. 
+validation of our findings [@Ellis2013Connecting,@Tomczak2015Cancer]. 
 We present our findings within a knowledge graph framework that captures the complex 
 relationships between genes, proteins, mutations, clinical outcomes, and patient 
 characteristics. This integrated approach provides a systematic method for identifying 
@@ -383,7 +395,7 @@ Traditional machine learning methods struggle to exploit complex relationships
 across modalities, often leading to suboptimal predictive performance.
 
 Graph neural networks (GNNs) offer a promising solution to this challenge
-[@Ozcan2025GNNMutation, @Zohari2025Graph]. By modeling 
+[@Ozcan2025GNNMutation,@Zohari2025Graph]. By modeling 
 biological entities (e.g., genes, proteins) as nodes and their interactions as edges, 
 GNNs naturally capture the relational structure of molecular systems. This graph-based 
 representation enables the integration of heterogeneous omics data into a unified 
@@ -445,7 +457,7 @@ from these data sources will help in understanding what data needs to be collect
 and normalized. NCATS [Translator Babel Node Normalizer](https://github.com/NCATSTranslator/Babel) 
 helps normalize identifiers and the [Biolink Model](https://biolink.github.io/biolink-model/) 
 provides a standardized schema that allows for data to be integrated seamlessly 
-with existing knowledge graphs [@Unni2022Biolink, @Fecho2025Announcing]. We have 
+with existing knowledge graphs [@Unni2022Biolink,@Fecho2025Announcing]. We have 
 created the Model Integration and Data Assembly System (MIDAS), an established 
 pipeline that takes these existing tools and converts and normalizes data to allow 
 for these modular KGs to be created and connected to existing KGs. It allows for 
@@ -467,13 +479,13 @@ missing edges: random guessing, a general LLM, and an LLM using RAG. Participant
 close each method comes to the truth. This data is used to train a graph neural 
 network to see if it can automatically spot questionable edges and flag them for 
 review and removal. The resulting knowledge graph is tested against the original, 
-trusted knowledge graph [@Yu2024Enhancing, @Payong2025Overview].
+trusted knowledge graph [@Yu2024Enhancing,@Payong2025Overview].
 
 ## BioGraphRAG 
 The limitations of generative AI (GenAI) systems are well documented, notably their 
 propensity to produce hallucinated information and their lack of mechanisms for 
 tracing outputs to verifiable sources of evidence
-[@Liao2024AI, @Huang2025Survey, @Joseph2025generative, @Palikhe2025Towards, @Xu2025Hallucination]. 
+[@Liao2024AI,@Huang2025Survey,@Joseph2025generative,@Palikhe2025Towards,@Xu2025Hallucination]. 
 In biomedical research, reliability and reproducibility is paramount and such 
 limitations are unacceptable. Therefore, a GenAI system that generates responses 
 grounded explicitly in verified biomedical knowledge and peer-reviewed publications 
@@ -483,7 +495,7 @@ BioGraphRAG integrates the Precision Medicine Knowledge Graph (PrimeKG) [@Chanda
 encodes disease–gene–drug relationships with the PubMed Knowledge Graph (PubKG) [@Xu2025PubMed]–representing 
 literature and citation networks– into a unified property graph. The integration 
 leverages the GraphRAG framework and is implemented using the G-retriever architecture 
-[@Lewis2021Retrieval, @Shi2025Boosting]. Through this design, BioGraphRAG ensures that 
+[@Lewis2021Retrieval,@Shi2025Boosting]. Through this design, BioGraphRAG ensures that 
 every generated response is grounded in validated relationships extracted from the 
 underlying graphs, thereby enhancing transparency, trustworthiness, and auditability.
 
@@ -791,7 +803,7 @@ By deploying the graph to Amazon Neptune, researchers can execute openCypher or
 Gremlin queries to retrieve disease-specific variants, identify therapies linked 
 to particular genetic alterations, or examine population-level variant frequencies. 
 The Biolink-compliance of the pipeline also means that the graph can be connected 
-to external resources such as the ROBOKOP Knowledge Graph [@Bizon2019ROBOKOP, @Morton2019ROBOKOP], 
+to external resources such as the ROBOKOP Knowledge Graph [@Bizon2019ROBOKOP,@Morton2019ROBOKOP], 
 allowing users to expand their analyses beyond our integrated sources.
 
 Finally, the system can be accessed through an agentic large language model with 
@@ -892,15 +904,15 @@ Across all seven prototype systems, the use of open biomedical KGs and graph-bas
 retrieval methods presents both significant opportunities and inherent limitations. 
 Open KGs such as PrimeKG, PubKG, and other public datasets often reflect underlying 
 data and curation biases—favoring well-studied genes, diseases, and pathways while 
-underrepresenting rare or emerging areas [@Norori2021Addressing, @Karki2025KGG]. 
+underrepresenting rare or emerging areas [@Norori2021Addressing,@Karki2025KGG]. 
 Static graph snapshots and heterogeneous schema designs may introduce temporal and 
 structural inconsistencies, and text-derived graphs can inherit linguistic and 
-publication biases from their source literature [@Koukaras2025Data, @Zhang2025Schema]. 
+publication biases from their source literature [@Koukaras2025Data,@Zhang2025Schema]. 
 Although the integration of GraphRAG and related graph-aware approaches constrains 
 generative outputs to verifiable, evidence-grounded knowledge, it cannot fully 
 eliminate hallucinations or inference drift [@Li2025Simple]. Retrieval gaps, 
 incomplete entity coverage, and overreliance on densely connected graph regions 
-may still influence reasoning outcomes [@Tian2022Knowledge, @Ju2024Survey]. 
+may still influence reasoning outcomes [@Tian2022Knowledge,@Ju2024Survey]. 
 Addressing these limitations will require continual data updates, ontology 
 harmonization, and transparent provenance tracking to strengthen the reliability 
 and interpretability of graph-driven biomedical AI systems.
