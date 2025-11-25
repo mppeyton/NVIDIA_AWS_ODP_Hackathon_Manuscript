@@ -216,7 +216,7 @@ affiliations:
     index: 19     
   - name: ICF International, Reston, VA, USA 
     index: 20     
-  - name: Open Targets, European Molecular Biology Laboratory, European Bioinformatics Institute, Hinxton, UK
+  - name: Open Targets, European Molecular Biology Laboratory, EBI, Hinxton, UK
     index: 21     
   - name: Database Center for Life Science, Japan 
     index: 22     
@@ -228,7 +228,7 @@ affiliations:
     index: 25     
   - name: School of Computing, University of Nebraska-Lincoln, Lincoln, NE, USA 
     index: 26     
-  - name: European Molecular Biology Laboratory, European Bioinformatics Institute, Wellcome Genome Campus, Hinxton, CB10 1SD, UK
+  - name: European Molecular Biology Laboratory, EBI, Wellcome Genome Campus, Hinxton, CB10 1SD, UK
     index: 27     
   - name: Children’s Tumor Foundation, New York, NY, USA
     index: 28     
@@ -236,7 +236,7 @@ affiliations:
     index: 29     
   - name: Carolina Health Informatics Program, University of North Carolina at Chapel Hill, NC, USA
     index: 30     
-  - name: Department of Biomedical and Health Informatics, Children’s Hospital of Philadelphia, and University of Pennsylvania Perelman Medical School, Philadelphia, PA, USA
+  - name: Department of Biomedical and Health Informatics, Children’s Hospital of Philadelphia, University of Pennsylvania Perelman Medical School, Philadelphia, PA, USA
     index: 31     
   - name: Amazon Web Services, Arlington, VA, USA 
     index: 32     
