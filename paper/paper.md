@@ -176,7 +176,7 @@ authors:
     orcid: 0000-0001-5267-4988    
     role: Conceptualization, Writing
 affiliations:
-  - name: Bioinformatics and Computational Biosciences Branch, OCICB, National Institute of Allergy and Infectious Diseases, NIH, Bethesda, Maryland, USA 
+  - name: Bioinformatics and Computational Biosciences Branch, OCICB, NIAID, NIH, Bethesda, Maryland, USA 
     index: 1
   - name: Renaissance Computing Institute, University of North Carolina-Chapel Hill, Chapel Hill, North Carolina, USA 
     index: 2
