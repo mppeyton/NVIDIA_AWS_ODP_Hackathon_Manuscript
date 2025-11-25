@@ -1,6 +1,6 @@
 ---
 title: 'A Blueprint for Open Science: How Transatlantic Teams Built and Deployed Knowledge Graphs to Enable Biological (AI) Models'
-title_short: 'Blueprint for Open Science: How Transatlantic Teams Built and Deployed Knowledge Graphs '
+title_short: 'How Transatlantic Teams Built and Deployed Knowledge Graphs'
 tags:
   - knowledge graphs
   - graphRAG
@@ -257,6 +257,8 @@ git_url: https://github.com/mppeyton/NVIDIA_AWS_ODP_Hackathon_Manuscript
 authors_short: Peyton, MP & Chung, C. \emph{et al.}
 ---
 
+
+<!-- padding line -->
 Authors are listed according to their contributions, followed by alphabetical order.
 
 # Introduction
