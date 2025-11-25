@@ -10,33 +10,43 @@ authors:
   - name: Mina P. Peyton
     orcid: 0000-0002-0250-1429
     affiliation: 1
+    role: Writing
   - name: Cheng-Han Chung
     affiliation: 2
     orcid: 0000-0003-3722-2101
+    role: Writing
   - name: Samarpan Mohanty
     affiliation: 3
     orcid: 0009-0001-1309-7425
+    role: Writing
   - name: Van Q. Truong
     affiliation: 4
     orcid: 0000-0002-5485-1818
+    role: Writing
   - name: Andrew Scouten
     orcid: 0009-0004-6418-7158
     affiliation: 5
+    role: Writing
   - name: Sangeeta Shukla
     affiliation: 6
     orcid: 0000-0002-3727-9602
+    role: Writing
   - name: Chantera Lazard
     affiliation: 7
     orcid: 0009-0006-1367-3812
+    role: Writing
   - name: Daniall Masood
     affiliation: 8
     orcid: 0000-0001-7441-1628
+    role: Writing
   - name: John D. Murphy
     affiliation: 9
     orcid: 0000-0002-7714-9976
+    role: Writing
   - name: Anne Ketter
     affiliation: 10
     orcid: 0000-0002-5547-569
+    role: Writing
   - name: Taha Mohseni Ahooyi
     affiliation: 6
     orcid: 0000-0003-0262-6413  
@@ -160,9 +170,11 @@ authors:
   - name: Beryl Rabindran 
     affiliation: 32
     orcid: 0000-0002-2937-7798
+    role: Conceptualization, Writing
   - name: Ben Busby
     affiliation: 33
     orcid: 0000-0001-5267-4988    
+    role: Conceptualization, Writing
 affiliations:
   - name: Bioinformatics and Computational Biosciences Branch, OCICB, NIAID, NIH, Bethesda, MD, USA 
     index: 1
