@@ -176,71 +176,71 @@ authors:
     orcid: 0000-0001-5267-4988    
     role: Conceptualization, Writing
 affiliations:
-  - name: Bioinformatics and Computational Biosciences Branch, OCICB, NIAID, NIH, Bethesda, Maryland, USA 
+  - name: Bioinformatics and Computational Biosciences Branch, OCICB, NIAID, NIH, Bethesda, MD, USA 
     index: 1
-  - name: Renaissance Computing Institute, University of North Carolina-Chapel Hill, Chapel Hill, North Carolina, USA 
+  - name: Renaissance Computing Institute, University of North Carolina-Chapel Hill, Chapel Hill, NC, USA 
     index: 2
-  - name: University of Nebraska-Lincoln, Lincoln, Nebraska, USA
+  - name: University of Nebraska-Lincoln, Lincoln, NE, USA
     index: 3
-  - name: Institute for Biomedical Informatics, University of Pennsylvania, Philadelphia, Pennsylvania, USA 
+  - name: Institute for Biomedical Informatics, University of Pennsylvania, Philadelphia, PA, USA 
     index: 4
-  - name: Texas State University, San Marcos, Texas, USA
+  - name: Texas State University, San Marcos, TX, USA
     index: 5
-  - name: Department of Biomedical and Health Informatics, Children’s Hospital of Philadelphia,Philadelphia, Pennsylvania, USA 
+  - name: Department of Biomedical and Health Informatics, Children’s Hospital of Philadelphia,Philadelphia, PA, USA 
     index: 6
-  - name: Northeastern University Boston, Boston, Massachusetts, USA
+  - name: Northeastern University Boston, Boston, MA, USA
     index: 7
   - name: The George Washington University, Washington, DC, USA 
     index: 8
-  - name: EPAM Systems, Newtown, Pennsylvania, USA
+  - name: EPAM Systems, Newtown, PA, USA
     index: 9
   - name: Computercraft Corporation, Washington DC, USA 
     index: 10     
-  - name: BioSkryb Genomics, Durham, North Carolina, USA
+  - name: BioSkryb Genomics, Durham, NC, USA
     index: 11    
-  - name: Volastra Therapeutics, New York, New York, USA
+  - name: Volastra Therapeutics, New York, NY, USA
     index: 12     
-  - name: Institute for Genome Sciences, University of Maryland School of Medicine, Baltimore, Maryland, USA
+  - name: Institute for Genome Sciences, University of Maryland School of Medicine, Baltimore, MD, USA
     index: 13     
-  - name: Independent Researcher, Ann Arbor, Michigan, USA 
+  - name: Independent Researcher, Ann Arbor, MI, USA 
     index: 14     
-  - name: Astrazeneca, Gaithersburg, Maryland, USA
+  - name: Astrazeneca, Gaithersburg, MD, USA
     index: 15     
-  - name: Carnegie Mellon University, Pittsburgh, Pennsylvania, USA
+  - name: Carnegie Mellon University, Pittsburgh, PA, USA
     index: 16     
-  - name: McGovern Institute for Brain Research, Massachusetts Institute of Technology, Cambridge, Massachusetts, USA
+  - name: McGovern Institute for Brain Research, Massachusetts Institute of Technology, Cambridge, MA, USA
     index: 17   
-  - name: Center for Vaccine Development and Global Health, University of Maryland School of Medicine, Baltimore, Maryland, USA 
+  - name: Center for Vaccine Development and Global Health, University of Maryland School of Medicine, Baltimore, MD, USA 
     index: 18     
-  - name: Medical Device Innovation Consortium, Arlington, Virginia, USA
+  - name: Medical Device Innovation Consortium, Arlington, VA, USA
     index: 19     
-  - name: ICF International, Reston, Virginia, USA 
+  - name: ICF International, Reston, VA, USA 
     index: 20     
   - name: Open Targets, European Molecular Biology Laboratory, European Bioinformatics Institute, Hinxton, UK
     index: 21     
   - name: Database Center for Life Science, Japan 
     index: 22     
-  - name: Johns Hopkins University, Baltimore, Maryland, USA
+  - name: Johns Hopkins University, Baltimore, MD, USA
     index: 23     
-  - name: Chan Zuckerberg Initiative, Redwood City, California, USA 
+  - name: Chan Zuckerberg Initiative, Redwood City, CA, USA 
     index: 24     
-  - name: Northeastern University, Boston, Massachusetts, USA
+  - name: Northeastern University, Boston, MA, USA
     index: 25     
-  - name: School of Computing, University of Nebraska-Lincoln, Lincoln, Nebraska, USA 
+  - name: School of Computing, University of Nebraska-Lincoln, Lincoln, NE, USA 
     index: 26     
   - name: European Molecular Biology Laboratory, European Bioinformatics Institute, Wellcome Genome Campus, Hinxton, CB10 1SD, UK
     index: 27     
-  - name: Children’s Tumor Foundation, New York, New York, USA
+  - name: Children’s Tumor Foundation, New York, NY, USA
     index: 28     
-  - name: CloudR Solutions, North Potomac, Maryland, USA
+  - name: CloudR Solutions, North Potomac, MD, USA
     index: 29     
-  - name: Carolina Health Informatics Program, University of North Carolina at Chapel Hill, North Carolina, USA
+  - name: Carolina Health Informatics Program, University of North Carolina at Chapel Hill, NC, USA
     index: 30     
-  - name: Department of Biomedical and Health Informatics, Children’s Hospital of Philadelphia, and University of Pennsylvania Perelman Medical School, Philadelphia, Pennsylvania, USA
+  - name: Department of Biomedical and Health Informatics, Children’s Hospital of Philadelphia, and University of Pennsylvania Perelman Medical School, Philadelphia, PA, USA
     index: 31     
-  - name: Amazon Web Services, Arlington, Virginia, USA 
+  - name: Amazon Web Services, Arlington, VA, USA 
     index: 32     
-  - name: NVIDIA, California, USA
+  - name: NVIDIA, CA, USA
     index: 33
 
 date: 21 November 2025
