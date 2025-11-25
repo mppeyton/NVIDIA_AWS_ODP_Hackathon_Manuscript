@@ -254,13 +254,10 @@ group: NVIDIA - AWS Open Data Knowledge Graph Hackathon Group
 git_url: https://github.com/mppeyton/NVIDIA_AWS_ODP_Hackathon_Manuscript
 # This is the short authors description that is used at the
 # bottom of the generated paper (typically the first two authors):
-authors_short: Mina P. Peyton & Cheng-Han Chung \emph{et al.}
+authors_short: Peyton, MP & Chung, C. \emph{et al.}
 ---
 
-
-
 Authors are listed according to their contributions, followed by alphabetical order.
-
 # Introduction
 
 Knowledge graphs (KGs) are structured representations of information that model 
