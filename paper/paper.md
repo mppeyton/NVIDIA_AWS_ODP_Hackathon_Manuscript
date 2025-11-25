@@ -258,6 +258,7 @@ authors_short: Peyton, MP & Chung, C. \emph{et al.}
 ---
 
 Authors are listed according to their contributions, followed by alphabetical order.
+
 # Introduction
 
 Knowledge graphs (KGs) are structured representations of information that model 
