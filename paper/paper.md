@@ -1,6 +1,6 @@
 ---
 title: 'A Blueprint for Open Science: How Transatlantic Teams Built and Deployed Knowledge Graphs to Enable Biological (AI) Models'
-title_short: 'NVIDIA AWS Open Data Knowledge Graph Hackathon'
+title_short: 'NVIDIA - AWS Open Data Knowledge Graph Hackathon'
 tags:
   - knowledge graphs
   - graphRAG
