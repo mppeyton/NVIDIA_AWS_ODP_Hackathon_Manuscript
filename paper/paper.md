@@ -245,11 +245,11 @@ affiliations:
 
 date: 21 November 2025
 cito-bibliography: paper.bib
-event: NVIDIA AWS 2025 Open Data Knowledge Graph Hackathon
+event: NVIDIA - AWS 2025 Open Data Knowledge Graph Hackathon
 biohackathon_name: "NVIDIA - AWS Open Data Knowledge Graph Hackathon"
 biohackathon_url: "https://aws-open-data-life-sciences-hackathon.splashthat.com/"   
 biohackathon_location: "Arlington, VA, USA, 2025"
-group: NVIDIA AWS Open Data Knowledge Graph Hackathon Group
+group: NVIDIA - AWS Open Data Knowledge Graph Hackathon Group
 # URL to project git repo --- should contain the actual paper.md:
 git_url: https://github.com/mppeyton/NVIDIA_AWS_ODP_Hackathon_Manuscript
 # This is the short authors description that is used at the
