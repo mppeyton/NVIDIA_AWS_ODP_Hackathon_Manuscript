@@ -176,86 +176,88 @@ authors:
     orcid: 0000-0001-5267-4988    
     role: Conceptualization, Writing
 affiliations:
-  - name: Bioinformatics and Computational Biosciences Branch,OCICB,NIAID,NIH,Bethesda,MD,USA 
+  - name: Bioinformatics and Computational Biosciences Branch, OCICB, NIAID, NIH, Bethesda, MD, USA 
     index: 1
-  - name: Renaissance Computing Institute,University of North Carolina-Chapel Hill,Chapel Hill,NC,USA 
+  - name: Renaissance Computing Institute,University of North Carolina-Chapel Hill, Chapel Hill, NC, USA 
     index: 2
-  - name: University of Nebraska-Lincoln,Lincoln,NE,USA
+  - name: University of Nebraska-Lincoln, Lincoln, NE, USA
     index: 3
-  - name: Institute for Biomedical Informatics,University of Pennsylvania,Philadelphia,PA,USA 
+  - name: Institute for Biomedical Informatics, University of Pennsylvania, Philadelphia, PA, USA 
     index: 4
-  - name: Texas State University,San Marcos,TX,USA
+  - name: Texas State University, San Marcos, TX, USA
     index: 5
-  - name: Department of Biomedical and Health Informatics,Children’s Hospital of Philadelphia,Philadelphia,PA,USA 
+  - name: Department of Biomedical and Health Informatics, Children’s Hospital of Philadelphia, Philadelphia, PA, USA 
     index: 6
-  - name: Northeastern University Boston,Boston,MA,USA
+  - name: Northeastern University Boston, Boston, MA, USA
     index: 7
-  - name: The George Washington University, Washington,DC,USA 
+  - name: The George Washington University, Washington, DC, USA 
     index: 8
-  - name: EPAM Systems, Newtown,PA,USA
+  - name: EPAM Systems, Newtown, PA, USA
     index: 9
-  - name: Computercraft Corporation,Washington DC,USA 
+  - name: Computercraft Corporation, Washington DC, USA 
     index: 10     
-  - name: BioSkryb Genomics,Durham,NC,USA
+  - name: BioSkryb Genomics, Durham, NC, USA
     index: 11    
-  - name: Volastra Therapeutics,New York,NY,USA
+  - name: Volastra Therapeutics, New York, NY, USA
     index: 12     
-  - name: Institute for Genome Sciences,University of Maryland School of Medicine,Baltimore,MD,USA
+  - name: Institute for Genome Sciences, University of Maryland School of Medicine, Baltimore, MD, USA
     index: 13     
-  - name: Independent Researcher,Ann Arbor,MI,USA 
+  - name: Independent Researcher, Ann Arbor, MI, USA 
     index: 14     
-  - name: Astrazeneca,Gaithersburg,MD,USA
+  - name: Astrazeneca, Gaithersburg, MD, USA
     index: 15     
-  - name: Carnegie Mellon University,Pittsburgh,PA,USA
+  - name: Carnegie Mellon University, Pittsburgh, PA, USA
     index: 16     
-  - name: McGovern Institute for Brain Research,Massachusetts Institute of Technology,Cambridge,MA,USA
+  - name: McGovern Institute for Brain Research, Massachusetts Institute of Technology, Cambridge, MA, USA
     index: 17   
-  - name: Center for Vaccine Development and Global Health,University of Maryland School of Medicine,Baltimore,MD,USA 
+  - name: Center for Vaccine Development and Global Health, University of Maryland School of Medicine, Baltimore, MD, USA 
     index: 18     
-  - name: Medical Device Innovation Consortium,Arlington,VA,USA
+  - name: Medical Device Innovation Consortium, Arlington, VA, USA
     index: 19     
-  - name: ICF International,Reston,VA,USA 
+  - name: ICF International, Reston, VA, USA 
     index: 20     
-  - name: Open Targets,European Molecular Biology Laboratory,EBI,Hinxton,UK
+  - name: Open Targets, European Molecular Biology Laboratory, EBI, Hinxton, UK
     index: 21     
-  - name: Database Center for Life Science,Japan 
+  - name: Database Center for Life Science, Japan 
     index: 22     
-  - name: Johns Hopkins University,Baltimore,MD,USA
+  - name: Johns Hopkins University, Baltimore, MD, USA
     index: 23     
-  - name: Chan Zuckerberg Initiative,Redwood City,CA,USA 
+  - name: Chan Zuckerberg Initiative, Redwood City, CA, USA 
     index: 24     
-  - name: Northeastern University,Boston,MA,USA
+  - name: Northeastern University, Boston, MA, USA
     index: 25     
-  - name: School of Computing,University of Nebraska-Lincoln,Lincoln,NE,USA 
+  - name: School of Computing, University of Nebraska-Lincoln, Lincoln, NE, USA 
     index: 26     
-  - name: European Molecular Biology Laboratory,EBI,Wellcome Genome Campus,Hinxton,CB10 1SD,UK
+  - name: European Molecular Biology Laboratory, EBI, Wellcome Genome Campus, Hinxton, CB10 1SD, UK
     index: 27     
-  - name: Children’s Tumor Foundation,New York,NY,USA
+  - name: Children’s Tumor Foundation, New York, NY, USA
     index: 28     
-  - name: CloudR Solutions,North Potomac,MD,USA
+  - name: CloudR Solutions, North Potomac, MD, USA
     index: 29     
-  - name: Carolina Health Informatics Program,University of North Carolina at Chapel Hill,NC,USA
+  - name: Carolina Health Informatics Program, University of North Carolina at Chapel Hill, NC, USA
     index: 30     
-  - name: Department of Biomedical and Health Informatics,Children’s Hospital of Philadelphia,University of Pennsylvania Perelman Medical School,Philadelphia,PA,USA
+  - name: Department of Biomedical and Health Informatics, Children’s Hospital of Philadelphia, University of Pennsylvania Perelman Medical School, Philadelphia, PA, USA
     index: 31     
-  - name: Amazon Web Services,Arlington,VA,USA 
+  - name: Amazon Web Services, Arlington, VA, USA 
     index: 32     
-  - name: NVIDIA,CA,USA
+  - name: NVIDIA, CA, USA
     index: 33
 
 date: 25 November 2025
 cito-bibliography: paper.bib
-event: NVIDIA-AWS 2025 Open Data Knowledge Graph Hackathon
-biohackathon_name: "NVIDIA-AWS Open Data Knowledge Graph Hackathon"
+event: NVIDIA - AWS 2025 Open Data Knowledge Graph Hackathon
+biohackathon_name: "NVIDIA - AWS Open Data Knowledge Graph Hackathon"
 biohackathon_url: "https://aws-open-data-life-sciences-hackathon.splashthat.com/"   
 biohackathon_location: "Arlington, VA, USA, 2025"
-group: NVIDIA-AWS Open Data Knowledge Graph Hackathon Group
+group: NVIDIA - AWS Open Data Knowledge Graph Hackathon Group
 # URL to project git repo --- should contain the actual paper.md:
 git_url: https://github.com/mppeyton/NVIDIA_AWS_ODP_Hackathon_Manuscript
 # This is the short authors description that is used at the
 # bottom of the generated paper (typically the first two authors):
 authors_short: Mina P. Peyton & Cheng-Han Chung \emph{et al.}
 ---
+
+
 
 Authors are listed according to their contributions, followed by alphabetical order.
 
