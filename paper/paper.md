@@ -176,7 +176,7 @@ authors:
     orcid: 0000-0001-5267-4988    
     role: Conceptualization, Writing
 affiliations:
-  - name: Bioinformatics and Computational Biosciences Branch, Office of Cyber Infrastructure and Computational Biology, National Institute of Allergy and Infectious Diseases, National Institutes of Health, Bethesda, Maryland, USA 
+  - name: Bioinformatics and Computational Biosciences Branch, OCICB, National Institute of Allergy and Infectious Diseases, NIH, Bethesda, Maryland, USA 
     index: 1
   - name: Renaissance Computing Institute, University of North Carolina-Chapel Hill, Chapel Hill, North Carolina, USA 
     index: 2
@@ -236,7 +236,7 @@ affiliations:
     index: 29     
   - name: Carolina Health Informatics Program, University of North Carolina at Chapel Hill, North Carolina, USA
     index: 30     
-  - name: Department of Biomedical and Health Informatics, Children’s Hospital of Philadelphia, and University of Pennsylvania Perelman Medical School, University of Pennsylvania, Philadelphia, Pennsylvania, USA
+  - name: Department of Biomedical and Health Informatics, Children’s Hospital of Philadelphia, and University of Pennsylvania Perelman Medical School, Philadelphia, Pennsylvania, USA
     index: 31     
   - name: Amazon Web Services, Arlington, Virginia, USA 
     index: 32     
@@ -246,16 +246,15 @@ affiliations:
 date: 21 November 2025
 cito-bibliography: paper.bib
 event: NVIDIA AWS 2025 Open Data Knowledge Graph Hackathon
-biohackathon_name: "NVIDIA/AWS Open Data Knowledge Graph Hackathon"
-biohackathon_url: "https://github.com/collaborativebioinformatics/ODP_hackathon_supplemental_materials/tree/main"   
+biohackathon_name: "NVIDIA - AWS Open Data Knowledge Graph Hackathon"
+biohackathon_url: "https://aws-open-data-life-sciences-hackathon.splashthat.com/"   
 biohackathon_location: "Arlington, VA, USA, 2025"
 group: NVIDIA AWS Open Data Knowledge Graph Hackathon Group
 # URL to project git repo --- should contain the actual paper.md:
-git_url: "https://github.com/mppeyton/NVIDIA_AWS_ODP_Hackathon_Manuscript"
+git_url: https://github.com/mppeyton/NVIDIA_AWS_ODP_Hackathon_Manuscript
 # This is the short authors description that is used at the
 # bottom of the generated paper (typically the first two authors):
 authors_short: Mina P. Peyton & Cheng-Han Chung \emph{et al.}
-biohackathon_logo: "biohackrxiv/logo.png"
 ---
 
 Authors are listed according to their contributions, followed by alphabetical order.
