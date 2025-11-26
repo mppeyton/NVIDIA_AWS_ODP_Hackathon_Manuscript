@@ -259,6 +259,32 @@ authors_short: Peyton, M.P. & Chung, C. \emph{et al.}
 
 #### Authors are listed according to their contributions, followed by alphabetical order.
 
+# Abstract
+Knowledge graphs (KGs) and large language models (LLMs) are increasingly applied 
+in biomedical research; however, LLMs' tendency to hallucinate and lack of evidence 
+traceability poses significant challenges for rigorous scientific applications. 
+To address these limitations, the NVIDIA - AWS Open Data Knowledge Graph Hackathon, 
+which brought together transatlantic teams, catalyzed the development of novel 
+frameworks that built or integrated KGs with graph-based retrieval-augmented generation 
+(GraphRAG) to enhance evidence-grounded generative AI. The hackathon took place on 
+October 1-3, 2025 at two locations - the AWS Skills Center in Arlington, VA, USA and 
+the European Bioinformatics Institute (EBI) Training Center in Cambridge, UK. 
+Across seven prototype projects, participating teams developed systems that construct, 
+validate, and deploy biomedical KGs using open data and cloud-native infrastructure. 
+These included GeNETwork, which integrates pediatric oncology datasets to identify 
+therapeutic targets; ECoGraph, a multi-omics graph framework for characterizing 
+colorectal cancer drivers; ClassiGraph, a graph neural network classifier for cancer 
+subtypes; EasyGiraffe, a validator for multisite polygenicity extraction; MIDAS 
+(Model Integration and Data Assembly System), a pipeline for harmonizing heterogeneous 
+biomedical datasets; KG Model Garbage Collection, a framework for detecting and 
+pruning erroneous AI-generated edges; and BioGraphRAG, which combines precision 
+medicine and literature-derived KGs for evidence-based question answering. Together, 
+these prototypes demonstrate practical strategies for constructing and deploying 
+biomedical KGs and highlight the potential of GraphRAG to produce interpretable, 
+verifiable AI-driven insights. By emphasizing open data, reproducible pipelines, 
+and evidence-grounded reasoning, this work advances methodologies for trustworthy 
+generative AI in biomedical discovery.
+
 # Introduction
 
 Knowledge graphs (KGs) are structured representations of information that model 
